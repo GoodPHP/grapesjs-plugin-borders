@@ -70,6 +70,8 @@ Start the dev server
 $ npm start
 ```
 
+Available on the GJS.MARKET: https://gjs.market/products/borders-color-around-selected-component
+
 
 ## License
 
